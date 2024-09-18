@@ -19,15 +19,15 @@
 ## 🚀 Proyectos Destacados
 
 - **Análisis de Ventas de E-commerce:** Análisis exploratorio de datos para identificar tendencias de ventas y generar informes visuales.
-- **Predicción de Demanda de Productos:** Modelo de predicción basado en machine learning para optimizar el inventario de una tienda en línea.
-
+- **Optimización de Gastos de Marketing para Showz:** Análisis integral de visitas, pedidos y gastos para evaluar la efectividad de las campañas publicitarias y calcular el retorno sobre la inversión en marketing, usando Python y análisis de cohortes.
+- **Optimización del Embudo de Ventas y Prueba A/A/B para Aplicación de Productos Alimenticios:** Análisis del embudo de ventas y evaluación del impacto de un cambio de diseño utilizando pruebas A/A/B para mejorar la experiencia del usuario y maximizar las conversiones.
 ---
 
 ## 📬 Contáctame
 
 - **Email:** [emiliovelez96@gmail.com)
 - **LinkedIn:** (https://www.linkedin.com/in/emilio-velez/)
-- 
+
 
 ---
 
